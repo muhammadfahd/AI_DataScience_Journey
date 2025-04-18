@@ -5,7 +5,7 @@ This repository contains my learning progress in the [Codanics AI & DS Program](
 
 | Day | Topic | Notes |
 |-----|-------|-------|
-| ✅ Day 1 | About Journey | [Summary](https://github.com/fahadkhanfahad/ai-datascience-learning/blob/master/Day1-%20Knowing%20about%20journey.md))|
+| ✅ Day 1 | About Journey | [Summary](https://github.com/fahadkhanfahad/ai-datascience-learning/blob/master/Day1-%20Knowing%20about%20journey.md)|
 | ✅ Day 2 | AI & Its concepts | [Summary](https://github.com/fahadkhanfahad/ai-datascience-learning/blob/master/Day2%20-%20AI%20%26%20its%20concepts.md) |
 | ... | ... | ... |
 
