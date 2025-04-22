@@ -10,4 +10,7 @@ This repository contains my learning progress in the [Codanics AI & DS Program](
 | ✅ Day 3 | Important Questions |[Summary](./Day3-%20Important%20Question.md)
 | ✅ Day 4 | Getting Started | [Summary](./Day4-%20Getting%20Started.md)
 | ✅ Day 5 | Python Basics | [Summary](./Day5-StartingPython.ipynb)
+|✅ Day 6  | Condition & Loops | [Notebook](./Day6-%20conditions&loops.ipynb)|
+| ✅ Day 7 | Functions & Error | [Errors](./Day7-Function&%20Errors/Errors%20in%20Python.md)  [Functions](./Day7-Function&%20Errors/functions.ipynb)|
+| ✅ Day 8 | Pandas Part1 | [Notebook](./Day8-%20DataStructures.md) |
 | ... | ... | ... |
