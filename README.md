@@ -19,5 +19,6 @@ Skills covered so far
 |  Day 7 | Functions & Error | [Errors](./Day7-Function&%20Errors/Errors%20in%20Python.md)  [Functions](./Day7-Function&%20Errors/functions.ipynb)|
 |  Day 8 | Pandas Part1 | [Notebook](./Day8_pandas_part1.ipynb) |
 | Day 9 | Concepts Realted Data | [Summary](./Day9-Important%20Concepts%20related%20Data.md)|
-|Day 10 | Pandas Part2 & 3   | [Summary](./Day10_panadas_part2,3/day8,10_summary.md)
+|Day 10 | Pandas Part2 & 3   | [Summary](./Day10_panadas_part2,3/day8,10_summary.md)|
+| Day 11 | Pandas part4    | [Notebook](./Day11-Pandas_part4.ipynb)|
 | ... | ... | ... |
