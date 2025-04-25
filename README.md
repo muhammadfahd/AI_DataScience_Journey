@@ -21,4 +21,5 @@ Skills covered so far
 | Day 9 | Concepts Realted Data | [Summary](./Day9-Important%20Concepts%20related%20Data.md)|
 |Day 10 | Pandas Part2 & 3   | [Summary](./Day10_panadas_part2,3/day8,10_summary.md)|
 | Day 11 | Pandas part4    | [Notebook](./Day11-Pandas_part4.ipynb)|
+|Day 12 | Pandas part5  | [Notebook](./Day12-pandas_&_eda_part5.ipynb)|
 | ... | ... | ... |
