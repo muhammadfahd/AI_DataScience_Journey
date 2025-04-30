@@ -22,4 +22,6 @@ Skills covered so far
 |Day 10 | Pandas Part2 & 3   | [Summary](./Day10_panadas_part2,3/day8,10_summary.md)|
 | Day 11 | Pandas part4    | [Notebook](./Day11-Pandas_part4.ipynb)|
 |Day 12 | Pandas part5  | [Notebook](./Day12-pandas_&_eda_part5.ipynb)|
+|Day 13 | Automatic EDA | [Notebook](./Day13_EDA%20with%20ydata%20profiling/guide.md)|
+
 | ... | ... | ... |
