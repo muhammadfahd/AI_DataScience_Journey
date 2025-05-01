@@ -23,5 +23,7 @@ Skills covered so far
 | Day 11 | Pandas part4    | [Notebook](./Day11-Pandas_part4.ipynb)|
 |Day 12 | Pandas part5  | [Notebook](./Day12-pandas_&_eda_part5.ipynb)|
 |Day 13 | Automatic EDA | [Notebook](./Day13_EDA%20with%20ydata%20profiling/guide.md)|
+| Day 14 | Google Play Store | [Notebook](./Day14,_Google%20play%20store%20apps%20eda.ipynb)|
+| Day 15 | EDA & Missing Values | [Guide](./Day15%20eda%20&%20missing%20values.md)
 
 | ... | ... | ... |
